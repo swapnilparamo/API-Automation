@@ -1,0 +1,11 @@
+401=Unauthorize user
+
+feature files means collection of test scenarios ie.collection of features
+
+scenario abc
+given abc
+when abc
+then abc
+
+above 4 lines means feature
+gherkin language

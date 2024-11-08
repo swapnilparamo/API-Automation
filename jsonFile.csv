@@ -1,0 +1,15 @@
+{
+  "tutor_details": [{"name":"seema","city":"dhule"},{"name":"nitin","city":"titawala"}],
+  "courses":[
+    {
+      "title":"abc",
+      "price":100,
+      "details":{"site":"www.abc.com"}
+    },
+    {
+      "title":"def",
+      "price":200,
+      "details":{"site":"www.def.com"}
+    }
+  ]
+}
